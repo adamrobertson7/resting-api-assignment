@@ -1,0 +1,44 @@
+body{
+    background-color: rgb(0, 115, 255);
+}
+
+
+#date, #title{
+    color: aliceblue;
+    text-align: center; 
+    font-weight: bold;
+    font-family: "Archivo Black", sans-serif;
+    padding: 30px;
+    font-size: 50px;
+}
+
+#caption{
+    color: aliceblue;
+    text-align: center; 
+    font-weight: bold;
+    font-family: "Archivo Black", sans-serif;
+    padding: 30px;
+    font-size: 20px;
+}
+
+h1{
+    color: aliceblue;
+    text-align: center;  
+    padding: 50px 340px;
+    font-size: 100px;
+    font-family: "Archivo Black", sans-serif;
+}
+
+#date, #title{
+    color: aliceblue;
+    text-align: center; 
+    font-weight: bold;
+    font-family: "Archivo Black", sans-serif;
+    padding: 30px;
+    font-size: 50px;
+}
+
+
+#link{
+    text-align:center;
+}
